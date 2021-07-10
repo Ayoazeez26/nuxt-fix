@@ -1,15 +1,4 @@
 <template>
-  <!-- <header>
-    <div>
-      <nav>
-        <ul class="bg-black">
-          <li><NuxtLink to="/">Home</NuxtLink></li>
-          <li><NuxtLink to="/">Blog</NuxtLink></li>
-          <li><NuxtLink to="about">About</NuxtLink></li>
-        </ul>
-      </nav>
-    </div>
-  </header> -->
   <header
     id="header"
     class="

@@ -1,5 +1,9 @@
 <template>
-  <NavBar />
+  <div>
+    <h2 class="text-3xl text-purple-400">
+      This is a homepage
+    </h2>
+  </div>
 </template>
 
 <script>

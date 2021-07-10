@@ -1,5 +1,9 @@
 <template>
-  <div></div>
+  <div>
+    <h2 class="text-3xl font-semibold text-black">
+      PLG Page
+    </h2>
+  </div>
 </template>
 
 <script>
